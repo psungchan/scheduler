@@ -5,7 +5,8 @@ public class Calendar {
 
     //set of class constants for the months, days, and namees of the days of the week since they won't change
     private static final String[] MONTHS = {"January","February","March", "April", "May", "June",
-            "July", "August", "September", "October", "November", "December"};
+                                             "July", "August", "September", "October", "November",
+                                             "December"};
     private static final int[] DAYS = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
     private static final String[] WEEKDAYS = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
     private int currentMonthNum;
@@ -33,37 +34,3 @@ public class Calendar {
         return 0;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
