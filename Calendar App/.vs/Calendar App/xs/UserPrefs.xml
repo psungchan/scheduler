@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BB9208EF-8008-48C4-B244-2E922B4B8979}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calendar App/AppControl.cs">
+    <Files>
+      <File FileName="Calendar App/AppControl.cs" Line="28" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Calendar_220App PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
