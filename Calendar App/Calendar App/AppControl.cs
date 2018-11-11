@@ -24,6 +24,39 @@ namespace Calendar_App
             this.currentMonth = currentMonth;
         }
     
+        ///*
+        public int dayToDisplay(int month, int year){
+            int firstDay = firstDayOfMonth(month, year);
+
+            int tempDay = 1;
+            int tempDayOfWeek = 1;
+            bool firstDisplay = false;
+            int toDisplay;
+
+            while (tempDay < DAYS[month]){
+                if (tempDayOfWeek == firstDay){ //Checks if current day of week is first day of month
+                    firstDisplay = true;
+                    firstDay = 0; //Prevents retrigger
+                }
+
+                if (firstDisplay == true) { //If days of month have started
+                    toDisplay = tempDay; //Use this for display
+                    tempDay++; //Increment day
+                }
+
+                if (tempDayOfWeek == 7){ //Resets day of week
+                    tempDayOfWeek = 1;
+                }
+                else{
+                    tempDayOfWeek++;
+                }
+            }
+
+
+        }
+        //*/
+
+
         public int firstDayOfMonth(int givenMonth, int givenYear){
 
             if(givenMonth < 3){ //Modification to Jan, Feb for function

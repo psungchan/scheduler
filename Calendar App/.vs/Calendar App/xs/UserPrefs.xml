@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{BB9208EF-8008-48C4-B244-2E922B4B8979}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calendar App/Window.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calendar App/Window.Designer.cs">
     <Files>
-      <File FileName="Calendar App/AppControl.cs" Line="23" Column="20" />
+      <File FileName="Calendar App/AppControl.cs" Line="28" Column="48" />
       <File FileName="Calendar App/Program.cs" Line="1" Column="1" />
-      <File FileName="Calendar App/Window.cs" Line="1" Column="1" />
+      <File FileName="Calendar App/Window.cs" Line="26" Column="10" />
+      <File FileName="Calendar App/Window.Designer.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
