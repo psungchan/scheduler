@@ -26,27 +26,21 @@ namespace Calendar_App
     
         public int firstDayOfMonth(int givenMonth, int givenYear){
 
-            if(givenMonth < 3){
+            if(givenMonth < 3){ //Modification to Jan, Feb for function
                 givenYear = givenYear - 1;
                 givenMonth = 10 + givenMonth;
-            }else{
+            }else{ //Shifts months for functino
                 givenMonth = givenMonth - 2;
             }
 
-            int century = givenYear / 100;
-            int year = givenYear % 100;
-
-            int partOne = (int)((2.6 * givenMonth) - 0.2);
+            int century = givenYear / 100; //Gets first two numbers in year
+            int year = givenYear % 100; //Gets last two numbers in year
+            int partOne = (int)((2.6 * givenMonth) - 0.2); 
             int partTwo = (int)(year / 4);
             int partThree = (int)(century / 4);
 
 
-            int dayOfWeek = (1 + partOne - (2 * century) + year + partTwo + partThree) % 7;
-
-            
-            
-
-
+            int dayOfWeek = (1 + partOne - (2 * century) + year + partTwo + partThree) % 7; //Function that determines day of the week 
 
             /*
              * floor is integer floor function
