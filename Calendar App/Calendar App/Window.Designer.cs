@@ -60,6 +60,7 @@
             this.monthChooser.Name = "monthChooser";
             this.monthChooser.Size = new System.Drawing.Size(121, 24);
             this.monthChooser.TabIndex = 1;
+            this.monthChooser.SelectedIndexChanged += new System.EventHandler(this.monthChooser_SelectedIndexChanged);
             // 
             // label1
             // 

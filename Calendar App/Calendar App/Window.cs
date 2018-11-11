@@ -21,5 +21,10 @@ namespace Calendar_App
         {
 
         }
+
+        private void monthChooser_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
