@@ -18,13 +18,13 @@ C:/Users/lumar/Desktop/Git Calendar/Calendar App/Calendar App/obj/Debug/Calendar
 /Users/psungchan/Desktop/Work/Programming/scheduler/Calendar App/Calendar App/obj/Debug/Calendar App.csproj.CoreCompileInputs.cache
 /Users/psungchan/Desktop/Work/Programming/scheduler/Calendar App/Calendar App/obj/Debug/Calendar App.exe
 /Users/psungchan/Desktop/Work/Programming/scheduler/Calendar App/Calendar App/obj/Debug/Calendar App.pdb
-C:/Users/lumar/Desktop/Git Calendar/scheduler/Calendar App/Calendar App/bin/Debug/Calendar App.exe.config
-C:/Users/lumar/Desktop/Git Calendar/scheduler/Calendar App/Calendar App/bin/Debug/Calendar App.exe
-C:/Users/lumar/Desktop/Git Calendar/scheduler/Calendar App/Calendar App/bin/Debug/Calendar App.pdb
-C:/Users/lumar/Desktop/Git Calendar/scheduler/Calendar App/Calendar App/obj/Debug/Calendar App.csprojAssemblyReference.cache
-C:/Users/lumar/Desktop/Git Calendar/scheduler/Calendar App/Calendar App/obj/Debug/Calendar_App.Properties.Resources.resources
-C:/Users/lumar/Desktop/Git Calendar/scheduler/Calendar App/Calendar App/obj/Debug/Calendar_App.Window.resources
-C:/Users/lumar/Desktop/Git Calendar/scheduler/Calendar App/Calendar App/obj/Debug/Calendar App.csproj.GenerateResource.cache
-C:/Users/lumar/Desktop/Git Calendar/scheduler/Calendar App/Calendar App/obj/Debug/Calendar App.csproj.CoreCompileInputs.cache
-C:/Users/lumar/Desktop/Git Calendar/scheduler/Calendar App/Calendar App/obj/Debug/Calendar App.exe
-C:/Users/lumar/Desktop/Git Calendar/scheduler/Calendar App/Calendar App/obj/Debug/Calendar App.pdb
+C:\Users\lumar\Desktop\Git Calendar\scheduler\Calendar App\Calendar App\obj\Debug\Calendar_App.Properties.Resources.resources
+C:\Users\lumar\Desktop\Git Calendar\scheduler\Calendar App\Calendar App\obj\Debug\Calendar_App.Window.resources
+C:\Users\lumar\Desktop\Git Calendar\scheduler\Calendar App\Calendar App\obj\Debug\Calendar App.csproj.GenerateResource.cache
+C:\Users\lumar\Desktop\Git Calendar\scheduler\Calendar App\Calendar App\obj\Debug\Calendar App.csproj.CoreCompileInputs.cache
+C:\Users\lumar\Desktop\Git Calendar\scheduler\Calendar App\Calendar App\obj\Debug\Calendar App.exe
+C:\Users\lumar\Desktop\Git Calendar\scheduler\Calendar App\Calendar App\obj\Debug\Calendar App.pdb
+C:\Users\lumar\Desktop\Git Calendar\scheduler\Calendar App\Calendar App\bin\Debug\Calendar App.exe.config
+C:\Users\lumar\Desktop\Git Calendar\scheduler\Calendar App\Calendar App\bin\Debug\Calendar App.exe
+C:\Users\lumar\Desktop\Git Calendar\scheduler\Calendar App\Calendar App\bin\Debug\Calendar App.pdb
+C:\Users\lumar\Desktop\Git Calendar\scheduler\Calendar App\Calendar App\obj\Debug\Calendar App.csprojAssemblyReference.cache

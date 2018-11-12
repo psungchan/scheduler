@@ -12,6 +12,12 @@ namespace Calendar_App
 {
     public partial class Window : Form
     {
+
+        private AppControl control;
+        private string currentMonth;
+        private string currentDay;
+        private int currentYear;
+
         public Window()
         {
             InitializeComponent();
@@ -22,6 +28,7 @@ namespace Calendar_App
 
         }
 
+        //when the month is clicked...
         private void monthChooser_SelectedIndexChanged(object sender, EventArgs e)
         {
 

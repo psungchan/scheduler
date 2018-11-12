@@ -9,14 +9,17 @@ namespace Calendar_App
     class AppControl
     {
 
+        //fields necessary to calculate things in the methods. Can be determined in C# I think
         private string currentMonth;
         private string currentDay;
         private int currentYear;
 
+        //constants for days of the week, number of days in each week, and names of the month
         private string[] MONTHS = {"January","February","March", "April", "May", "June","July", "August", "September", "October", "November","December"};
         private int[] DAYS = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
         private string[] WEEKDAYS = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
 
+        //constructor to initialize fields
         public AppControl(string currentMonth, string currentDay, int currentYear) {
 
             this.currentDay = currentDay;
@@ -52,7 +55,7 @@ namespace Calendar_App
                 }
             }
 
-
+            return 0; //what the hell are you supposed to reuturn here?
         }
         //*/
 
